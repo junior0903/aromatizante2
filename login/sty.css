@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT9_oajDkCM0719KuMrAgSe-4Zf91MJE5ESqXUQKxQiVeaIze6OEIwvQ774Uo8RpL23F0&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+    background: gray;
+    transition: 20px;
+}
